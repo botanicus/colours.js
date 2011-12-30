@@ -4,7 +4,7 @@
 # Example
 
     var colours = require("colours");
-    sys.puts(colours.bold.green + "I'm green!" + colours.reset + "\n" + "And now I'm not!");
+    console.log(colours.bold.green + "I'm green!" + colours.reset + "\n" + "And now I'm not!");
 
 # API
 
